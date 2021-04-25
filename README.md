@@ -2,4 +2,4 @@
 
 This is lior assayag, tzoof shifman, shirel alimi and reut rozenzon DB project
 
-[The link to the Database](https://www.kaggle.com/bhuwan01/top-1000-best-movies)
+[The link to the Database](https://www.kaggle.com/winston56/fortune-500-data-2021)
